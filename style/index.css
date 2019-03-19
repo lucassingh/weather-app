@@ -148,7 +148,7 @@ button {
 /* display  */
 
 .display-none {
-    display: none;
+    display: none !important;
 }
 
 /* icons */

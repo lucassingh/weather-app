@@ -1,0 +1,3 @@
+key: e73cc582cf60bbe19591f34234e3cdfe
+
+call: https://api.darksky.net/forecast/e73cc582cf60bbe19591f34234e3cdfe/37.8267,-122.4233
